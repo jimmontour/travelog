@@ -5,7 +5,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">TraveLoh</h3>
+  <h3 align="center">TraveLog</h3>
 
   <p align="center">
     A simple to use P2P video chat client with an 80s synthpunk UI.
